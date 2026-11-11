@@ -1,0 +1,7 @@
+{
+  "name": "CortexOS - AI Second Brain & Operating System",
+  "description": "Interactive AI Second Brain & Operating System inspired by Nate Herk and the 4C framework: 3D interactive knowledge graph, AGENTS.md router, context vault, live connectors, grill-me interviewer, and continuous audit engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
